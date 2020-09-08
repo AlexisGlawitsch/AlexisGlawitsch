@@ -4,7 +4,9 @@
 
 I'm Alexis, a Computer Science student at the University of California, Irvine.
 
-I love learning new technologies, and try to constantly seek and overcome new challenges. The inspiration for my projects often comes from things I'd like to be able to use in my day to day life, from tracking statistics about my Instagram art account to having an easy way to manage and share lists and ideas with others. My goal is for other people to feel the same way and be able to make use of my projects in their lives as well! 
+I love learning new technologies, and try to constantly seek and overcome new challenges. The inspiration for my projects often comes from things I'd like to be able to use in my day to day life, from tracking statistics about my Instagram art account to having an easy way to manage and share lists and ideas with others. My goal is for other people to feel the same way and be able to make use of my projects in their lives as well!
+
+I have a strong interest in backend development and data manipulation, and hope to work on something related to this in the future. I also enjoy UX design and data visualization, as I have a passion for art and all things visual.
 
 Things here are constantly under construction; I often work on my projects in private repositories for a while before setting them to public. Feel free to take a look around.
 
