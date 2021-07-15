@@ -31,6 +31,10 @@ A bot for the chat application Discord, written as a Python script. This is one 
 
 ### Work Experience
 
+**Stripe** | *Software Engineer Intern* | *June 2021 - Present*
+
+I'm working with Ruby and Ruby on Rails to improve the Stripe Connector to NetSuite.
+
 **American Express** | *Software Engineer Intern* | *July 2020 - August 2020*
 
 I worked with React, Redux, Jest, and Enzyme to develop reusable web modules with 100% unit test coverage. Part of my work involved communicating with another team on the best way to change their existing React component to be able to be used for various different needs.
