@@ -8,28 +8,20 @@ I love learning new technologies, and try to constantly seek and overcome new ch
 
 I have a strong interest in backend development and data manipulation, and hope to work on something related to this in the future. I also enjoy UX design and data visualization, as I have a passion for art and all things visual.
 
-Things here are constantly under construction; I often work on my projects in private repositories for a while before setting them to public. Feel free to take a look around.
-
 ---
 
 ### Repo Overview
 
-**Creator Analytics** | *In the process of being revamped*
-
-My current side project at the moment. Intended to help Instagram Business and Creator accounts keep track of account statistics over longer periods of time than 7 days. The inspiration for this project came while I was attempting to graph out these statistics by hand — I realized there was no reason for me to do so when I could just write an application to do it for me! I'm using this as an opportunity to learn more about how full stack applications are linked together, as well as an introduction to working with databases on a small scale.
-
-**GachaBot** | *Python*
-
-A bot for the chat application Discord, written as a Python script. This is one of the first side projects I worked on, and taught me a lot about working with external libraries and APIs, parsing JSON data, simple image manipulation, and hosting via AWS.
+Under construction
 
 
 ---
 
 ### Work Experience
 
-**Stripe** | *Software Engineer Intern* | *June 2021 - Present*
+**Stripe** | *Software Engineer Intern* | *June 2021 - September 2021*
 
-I'm working with Ruby and Ruby on Rails to improve the Stripe Connector to NetSuite.
+I worked with Ruby and Ruby on Rails to integrate a new Stripe feature in the Stripe Connector to NetSuite.
 
 **American Express** | *Software Engineer Intern* | *July 2020 - August 2020*
 
