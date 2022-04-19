@@ -6,13 +6,6 @@ I'm Alexis, a Computer Science student at the University of California, Irvine. 
 
 ---
 
-### Repo Overview
-
-Under construction
-
-
----
-
 ### Work Experience
 
 **Stripe** | *Software Engineer Intern* | *June 2021 - September 2021*
