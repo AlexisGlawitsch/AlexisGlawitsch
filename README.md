@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub!
 
-I'm Alexis, a Computer Science student at the University of California, Irvine. I love learning new technologies, and try to constantly seek and overcome new challenges. The inspiration for my projects often comes from things I'd like to be able to use in my day to day life. I have a strong interest in backend development and data manipulation, and hope to work on something related to this in the future. I also enjoy UX design and data visualization, as I have a passion for art and all things visual.
+I'm Alexis, a new grad software engineer. I love learning new technologies, and try to constantly seek and overcome new challenges. The inspiration for my projects often comes from things I'd like to be able to use in my day to day life. I have a strong interest in backend development and data manipulation, and hope to work on something related to this in the future. I also enjoy UX design and data visualization, as I have a passion for art and all things visual.
 
 ---
 
